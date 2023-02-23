@@ -28,10 +28,10 @@ education:
   courses:
   - course: PhD student in EEE
     institution: the University of Hong Kong
-    year: 2022 till now
+    year: 2022 - now
   - course: BEng in Opto-electronic Information Science and Engineering
     institution: Fudan University
-    year: 2008
+    year: 2018 - 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
